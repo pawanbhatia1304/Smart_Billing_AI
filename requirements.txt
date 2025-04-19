@@ -1,0 +1,5 @@
+roboflow==1.1.33
+opencv-python==4.10.0.84
+ultralytics==8.0.196
+numpy==1.26.4
+albumentations==1.4.14

@@ -1,0 +1,7 @@
+names:
+- lays-large
+- lays-small
+- milo-180ml
+- slice-200ml
+nc: 4
+train: Sample-Supermarket-Products-Data-1/train/images

@@ -1,0 +1,8 @@
+names:
+- lays-large
+- lays-small
+- milo-180ml
+- slice-200ml
+nc: 4
+train: C:\Smart_Billing_AI\dataset\prepared_dataset\train
+val: C:\Smart_Billing_AI\dataset\prepared_dataset\val
