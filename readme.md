@@ -1,4 +1,4 @@
-#🧾 Smart Billing System
+# 🧾 Smart Billing System
 
 ### 🔍 Real-Time Object Detection + Automated Invoicing via SMS & PDF
 
