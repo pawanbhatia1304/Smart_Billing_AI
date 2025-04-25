@@ -109,8 +109,8 @@ Every invoice PDF includes:
 
 ## 👤 Author
 
-**Your Name**  
-📧 your.email@example.com    
+**Pawan Bhatia**  
+📧 pawanbhatia3320@gmail.com    
 🐱 [GitHub](https://github.com/your-username)
 
 ---
