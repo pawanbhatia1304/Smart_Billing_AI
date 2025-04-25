@@ -1,4 +1,3 @@
-
 # 🧾 Smart Billing System
 
 ### 🔍 Real-Time Object Detection + Automated Invoicing via SMS & PDF
@@ -67,11 +66,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 📷 Sample Screenshot
-
-![Smart Billing Screenshot](screenshot.jpg)
 
 ---
 
