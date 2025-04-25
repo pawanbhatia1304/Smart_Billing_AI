@@ -267,7 +267,6 @@ with cols[1]:
     st.markdown(f"""
         <div style='text-align:center; color:white; font-size:0.9em;'>
             <strong>TrendBots</strong><br>
-            <a href="{linkedin_url}" target="_blank">LinkedIn</a> |
             <a href="{github_url}" target="_blank">GitHub</a><br>
             {email_addr}
         </div>
