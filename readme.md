@@ -1,4 +1,4 @@
-# 🧾 Smart Billing System
+#🧾 Smart Billing System
 
 ### 🔍 Real-Time Object Detection + Automated Invoicing via SMS & PDF
 
@@ -111,7 +111,7 @@ Every invoice PDF includes:
 
 **Pawan Bhatia**  
 📧 pawanbhatia3320@gmail.com    
-🐱 [GitHub](https://github.com/your-username)
+🐱 [GitHub](https://github.com/pawanbhatia1304)
 
 ---
 
