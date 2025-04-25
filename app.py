@@ -249,7 +249,7 @@ if st.session_state.stopped and st.session_state.detected_items:
 
 # ─── Footer with Links & QR ──────────────────────────────────────────────────
 linkedin_url = "https://www.linkedin.com/in/pawan-bhatia-5a119b274/"
-github_url   = "https://github.com/pawanbhatia1304/Smart_Billing_AI"
+github_url   = "https://github.com/pawanbhatia1304/Smart_Billing_AI_TrendBots/tree/main"
 email_addr   = "smartbillingai@gmail.com"
 
 # Generate QR
